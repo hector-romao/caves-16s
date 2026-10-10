@@ -1,0 +1,5 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)	sum_n
+/media/lgbio-nas1/hectorromao/fungi_caves/2.trimming/trimmed_single/16S-K_S224_L001_R1.fastq.gz	FASTQ	DNA	117574	33385876	282	284.0	294	284	284	284	0	284	9	99	98	28.60	56.41	10163
+/media/lgbio-nas1/hectorromao/fungi_caves/2.trimming/trimmed_single/16S-L_S225_L001_R2.fastq.gz	FASTQ	DNA	169888	47563160	278	280.0	298	280	280	280	0	280	12	98	93	23.99	58.13	19304
+/media/lgbio-nas1/hectorromao/fungi_caves/2.trimming/trimmed_single/16S-M_S226_L001_R2.fastq.gz	FASTQ	DNA	139321	39005052	278	280.0	298	280	280	280	0	280	10	98	93	23.83	58.69	15998
+/media/lgbio-nas1/hectorromao/fungi_caves/2.trimming/trimmed_single/16S-N_S227_L001_R2.fastq.gz	FASTQ	DNA	117288	32835978	278	280.0	298	280	280	280	0	280	10	98	93	23.82	58.91	13621
