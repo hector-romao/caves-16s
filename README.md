@@ -97,12 +97,6 @@ Contém scripts e metadados para avaliação da riqueza e diversidade microbiana
 5. Gerar matrizes por família/gênero com `converting_tables_for_fam-gen_lvl.R`
 6. Realizar a rarefação e comparações de diversidade
 
-## Observações importantes
-
-- Muitos scripts foram escritos para trabalhar com caminhos absolutos em um ambiente específico de armazenamento/servidor. Se você for reproduzir o projeto em outro computador, ajuste os caminhos em cada script antes de executar.
-- O projeto usa nomes específicos de arquivos e convenções de amostras que devem ser respeitadas para evitar erros de leitura.
-- Os dados finais em CSV são mais fáceis de inspecionar e utilizar em análise estatística e visualização.
-
 ## Dicas de prática
 
 - Mantenha os scripts dentro das pastas temáticas e evite misturar arquivos brutos com arquivos processados.
