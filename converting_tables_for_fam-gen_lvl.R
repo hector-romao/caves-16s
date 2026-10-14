@@ -43,8 +43,8 @@ longa <- as.data.frame(gen_mat) %>%
   filter(abundance > 0) %>%
   separate(Lineage, into = c("Phylum", "Class", "Order", "Family", "Genus"),
            sep = "\\|", fill = "right", remove = FALSE) %>%
-  mutate(across(Phylum:Family, ~ na_if(.x, "unclassified"))) %>%
-  select(sample, Lineage, abundance, Phylum, Class, Order, Family) %>%
+  mutate(across(Phylum:Genus, ~ na_if(.x, "unclassified"))) %>%
+  select(sample, Lineage, abundance, Phylum, Class, Order, Family, Genus) %>%
   arrange(sample, desc(abundance))
 
 dir.create("genero/por_amostra", recursive = TRUE, showWarnings = FALSE)

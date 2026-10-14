@@ -1,0 +1,107 @@
+Lineage	samambaia	funil
+Archaea;Halobacteriota;Methanomicrobia	0.00192876678509295	0
+Archaea;Methanobacteriota;Methanobacteria	0.00270027349913013	0
+Archaea;Micrarchaeota;Micrarchaeia	0.00103900421835713	0
+Archaea;Nanoarchaeota;Nanoarchaeia	0.000771506714037179	0
+Archaea;Thermoplasmatota;Thermoplasmata	0.0645301734532439	0.2034702989883
+Archaea;Thermoproteota;Bathyarchaeia	0.00435494005736078	0
+Archaea;Thermoproteota;Nitrososphaeria	0.217501931560987	0.510936528570621
+Bacteria;Acidobacteriota;Acidobacteriae	9.90789967596971	8.58305544565648
+Bacteria;Acidobacteriota;Blastocatellia	0.0114676801232375	0.00678234329961001
+Bacteria;Acidobacteriota;Holophagae	0.0230956497090982	0.00226078109987001
+Bacteria;Acidobacteriota;Subgroup 18	0.0945095724695544	0
+Bacteria;Acidobacteriota;Subgroup 22	0.000622134293908683	0
+Bacteria;Acidobacteriota;Subgroup 5	0.0564911624922421	0.00565195274967501
+Bacteria;Acidobacteriota;Thermoanaerobaculia	0.011948548511107	0
+Bacteria;Acidobacteriota;unclassified_Acidobacteriota	0.00279960432258907	0
+Bacteria;Acidobacteriota;Vicinamibacteria	0.470389005554099	0.12660374159272
+Bacteria;Actinomycetota;Acidimicrobiia	3.30857310607864	4.76798733962584
+Bacteria;Actinomycetota;Actinobacteria	24.9340865632441	37.8228678008252
+Bacteria;Actinomycetota;Coriobacteriia	0.0073293137833532	0
+Bacteria;Actinomycetota;MB-A2-108	0.00217747002868039	0
+Bacteria;Actinomycetota;Thermoleophilia	3.95721019524749	1.59611145650822
+Bacteria;Actinomycetota;unclassified_Actinomycetota	0.00491977713773502	0
+Bacteria;Armatimonadota;Fimbriimonadia	0.0118349992838822	0.00339117164980501
+Bacteria;Bacillota;Bacilli	0.877330790266858	2.2347821172215
+Bacteria;Bacillota;BRH-c20a	0.00115726007105577	0
+Bacteria;Bacillota;Clostridia	1.43966414780414	0.11982139829311
+Bacteria;Bacillota;D8A-2	0.021602187993041	0
+Bacteria;Bacillota;Desulfitobacteriia	0.0160833851420821	0
+Bacteria;Bacillota;Desulfotomaculia	0.116111760462595	0
+Bacteria;Bacillota;Dethiobacteria	0.0104153406395019	0
+Bacteria;Bacillota;Incertae Sedis	0.0185161611368923	0
+Bacteria;Bacillota;Limnochordia	0.277872864444273	0
+Bacteria;Bacillota;Moorellia	0.00192876678509295	0
+Bacteria;Bacillota;Negativicutes	0.0028340222512901	0
+Bacteria;Bacillota;Sulfobacillia	0.00231452014211154	0.00339117164980501
+Bacteria;Bacillota;Symbiobacteriia	0.0123673467737869	0
+Bacteria;Bacillota;Syntrophomonadia	0.00617205371229743	0
+Bacteria;Bacillota;Thermacetogenia	0.015044380923725	0
+Bacteria;Bacillota;Thermoanaerobacteria	0.0181304077798737	0
+Bacteria;Bacillota;unclassified_Bacillota	0.0647521748731248	0.0305205448482451
+Bacteria;Bacteroidota;Bacteroidia	0.512352658780901	0.0926920250946702
+Bacteria;Bdellovibrionota;Bdellovibrionia	0.0212886694338264	0.01130390549935
+Bacteria;Bdellovibrionota;Oligoflexia	0.121736625639064	0.0282597637483751
+Bacteria;Candidatus Eremiobacterota;Eremiobacteria	2.8403719982684	3.23969931611372
+Bacteria;Candidatus Kapabacteria;Kapabacteria	0.000519502109178563	0.00678234329961001
+Bacteria;Chlamydiota;Chlamydiia	0.358591788087993	0.0791273384954502
+Bacteria;Chloroflexota;AD3	1.53805338825578	1.26377663482733
+Bacteria;Chloroflexota;Anaerolineae	0.23828506523452	0
+Bacteria;Chloroflexota;Chloroflexia	0.286354631249437	0.197818346238625
+Bacteria;Chloroflexota;Dehalococcoidia	0.0110744418535026	0
+Bacteria;Chloroflexota;JG30-KF-CM66	0.320412081286085	0.418244503475951
+Bacteria;Chloroflexota;KD4-96	0.06692928578566	0
+Bacteria;Chloroflexota;Ktedonobacteria	6.85929016410335	8.53105748035946
+Bacteria;Chloroflexota;OLB14	0.0358750622027288	0.0373028881478551
+Bacteria;Chloroflexota;TK10	0.0968933832679172	0.0259989826485051
+Bacteria;Chloroflexota;unclassified_Chloroflexota	0.200510446379284	0.343638727180241
+Bacteria;Cyanobacteriota;Cyanobacteriia	0.00415601687342851	0
+Bacteria;Cyanobacteriota;Sericytochromatia	0.00259751054589282	0.0259989826485051
+Bacteria;Cyanobacteriota;Vampirivibrionia	0.123492877378326	0.0904312439948002
+Bacteria;Deinococcota;Deinococci	0.00347178021316731	0
+Bacteria;Dependentiae;Babeliae	0.0767283083463256	0.0293901542983101
+Bacteria;Elusimicrobiota;Elusimicrobia	0.0563830050259767	0.00452156219974001
+Bacteria;Elusimicrobiota;Lineage IIa	0.0943839264386301	0.0373028881478551
+Bacteria;Elusimicrobiota;Lineage IIb	0.00342173861649776	0
+Bacteria;Elusimicrobiota;Lineage IIc	0.0038386085409462	0
+Bacteria;Elusimicrobiota;unclassified_Elusimicrobiota	0.00809725759910483	0
+Bacteria;FCPU426;unclassified_FCPU426	0.033248134987428	0.0339117164980501
+Bacteria;Fibrobacterota;Chitinivibrionia	0.0397325957729147	0
+Bacteria;GAL15;unclassified_GAL15	0.938821907993325	1.72723676030068
+Bacteria;Gemmatimonadota;Gemmatimonadia	0.576152884511273	0.230599672186741
+Bacteria;Gemmatimonadota;Longimicrobiia	0.00192876678509295	0
+Bacteria;Gemmatimonadota;S0134 terrestrial group	0.0192876678509295	0
+Bacteria;Ignavibacteriota;Ignavibacteria	0.0354893088457102	0
+Bacteria;MBNT15;unclassified_MBNT15	0.000933201440863025	0
+Bacteria;Methylomirabilota;Methylomirabilia	0.158983847428544	0.11529983609337
+Bacteria;Myxococcota;bacteriap25	0.00186640288172605	0
+Bacteria;Myxococcota;Myxococcia	0.266176381042354	0.0825185101452552
+Bacteria;Myxococcota;Polyangiia	0.377777778682898	0.13112530379246
+Bacteria;Myxococcota;unclassified_Myxococcota	0.000519502109178563	0
+Bacteria;NB1-j;unclassified_NB1-j	0.0244235269250618	0
+Bacteria;Nitrospirota;Nitrospiria	0.211134154746616	0.515458090770361
+Bacteria;Patescibacteria;ABY1	0.00124426858781737	0
+Bacteria;Patescibacteria;Parcubacteria	0.0272506213826826	0
+Bacteria;Patescibacteria;Saccharimonadia	0.70770496469535	0.00791273384954502
+Bacteria;Planctomycetota;BD7-11	0.00830252196856507	0
+Bacteria;Planctomycetota;Phycisphaerae	0.0849883740547084	0.00452156219974001
+Bacteria;Planctomycetota;Pla4 lineage	0.0103260437201503	0
+Bacteria;Planctomycetota;Planctomycetes	2.74764324087714	1.43785677951732
+Bacteria;Planctomycetota;unclassified_Planctomycetota	0.00192876678509295	0
+Bacteria;Planctomycetota;vadinHA49	0.00181825738212497	0
+Bacteria;Pseudomonadota;Alphaproteobacteria	21.0796787217024	19.6654043972192
+Bacteria;Pseudomonadota;Gammaproteobacteria	11.7149521627799	3.83541513592946
+Bacteria;Pseudomonadota;unclassified_Pseudomonadota	0.00222421026407877	0
+Bacteria;RCP2-54;unclassified_RCP2-54	0.118023755111465	0.220426157237326
+Bacteria;SAR324 clade(Marine group B);Incertae Sedis	0.0330884321329463	0.01356468659922
+Bacteria;Spirochaetota;Spirochaetia	0.00566157254854505	0
+Bacteria;Sumerlaeota;Sumerlaeia	0.000622134293908683	0
+Bacteria;Thermodesulfobacteriota;Desulfobaccia	0.129998881315265	0
+Bacteria;Thermodesulfobacteriota;Desulfobacteria	0.00385753357018589	0
+Bacteria;Thermodesulfobacteriota;Desulfuromonadia	0.000622134293908683	0.0271293731984401
+Bacteria;Thermodesulfobacteriota;Syntrophobacteria	0.0624920438370115	0
+Bacteria;Thermodesulfobacteriota;Syntrophorhabdia	0.023530954778134	0
+Bacteria;Thermodesulfobacteriota;unclassified_Thermodesulfobacteriota	0.000771506714037179	0
+Bacteria;unclassified_Bacteria;unclassified_Bacteria	0.304883629233135	1.45820380941615
+Bacteria;Verrucomicrobiota;Verrucomicrobiia	0.349376798285803	0.012434296049285
+Bacteria;Zixibacteria;unclassified_Zixibacteria	0.00694356042633461	0

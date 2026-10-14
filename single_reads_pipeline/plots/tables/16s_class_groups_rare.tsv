@@ -1,0 +1,107 @@
+Lineage	samambaia	funil
+Archaea;Halobacteriota;Methanomicrobia	5	0
+Archaea;Methanobacteriota;Methanobacteria	7	0
+Archaea;Micrarchaeota;Micrarchaeia	4	0
+Archaea;Nanoarchaeota;Nanoarchaeia	2	0
+Archaea;Thermoplasmatota;Thermoplasmata	220	180
+Archaea;Thermoproteota;Bathyarchaeia	14	0
+Archaea;Thermoproteota;Nitrososphaeria	736	452
+Bacteria;Acidobacteriota;Acidobacteriae	33513	7593
+Bacteria;Acidobacteriota;Blastocatellia	40	6
+Bacteria;Acidobacteriota;Holophagae	82	2
+Bacteria;Acidobacteriota;Subgroup 18	245	0
+Bacteria;Acidobacteriota;Subgroup 22	2	0
+Bacteria;Acidobacteriota;Subgroup 5	202	5
+Bacteria;Acidobacteriota;Thermoanaerobaculia	46	0
+Bacteria;Acidobacteriota;unclassified_Acidobacteriota	9	0
+Bacteria;Acidobacteriota;Vicinamibacteria	1613	112
+Bacteria;Actinomycetota;Acidimicrobiia	11509	4218
+Bacteria;Actinomycetota;Actinobacteria	76654	33460
+Bacteria;Actinomycetota;Coriobacteriia	19	0
+Bacteria;Actinomycetota;MB-A2-108	7	0
+Bacteria;Actinomycetota;Thermoleophilia	12903	1412
+Bacteria;Actinomycetota;unclassified_Actinomycetota	17	0
+Bacteria;Armatimonadota;Fimbriimonadia	44	3
+Bacteria;Bacillota;Bacilli	2867	1977
+Bacteria;Bacillota;BRH-c20a	3	0
+Bacteria;Bacillota;Clostridia	3761	106
+Bacteria;Bacillota;D8A-2	56	0
+Bacteria;Bacillota;Desulfitobacteriia	43	0
+Bacteria;Bacillota;Desulfotomaculia	301	0
+Bacteria;Bacillota;Dethiobacteria	27	0
+Bacteria;Bacillota;Incertae Sedis	48	0
+Bacteria;Bacillota;Limnochordia	723	0
+Bacteria;Bacillota;Moorellia	5	0
+Bacteria;Bacillota;Negativicutes	8	0
+Bacteria;Bacillota;Sulfobacillia	6	3
+Bacteria;Bacillota;Symbiobacteriia	35	0
+Bacteria;Bacillota;Syntrophomonadia	16	0
+Bacteria;Bacillota;Thermacetogenia	39	0
+Bacteria;Bacillota;Thermoanaerobacteria	47	0
+Bacteria;Bacillota;unclassified_Bacillota	196	27
+Bacteria;Bacteroidota;Bacteroidia	1405	82
+Bacteria;Bdellovibrionota;Bdellovibrionia	80	10
+Bacteria;Bdellovibrionota;Oligoflexia	434	25
+Bacteria;Candidatus Eremiobacterota;Eremiobacteria	10043	2866
+Bacteria;Candidatus Kapabacteria;Kapabacteria	2	6
+Bacteria;Chlamydiota;Chlamydiia	1203	70
+Bacteria;Chloroflexota;AD3	5283	1118
+Bacteria;Chloroflexota;Anaerolineae	620	0
+Bacteria;Chloroflexota;Chloroflexia	779	175
+Bacteria;Chloroflexota;Dehalococcoidia	32	0
+Bacteria;Chloroflexota;JG30-KF-CM66	1115	370
+Bacteria;Chloroflexota;KD4-96	180	0
+Bacteria;Chloroflexota;Ktedonobacteria	23508	7547
+Bacteria;Chloroflexota;OLB14	93	33
+Bacteria;Chloroflexota;TK10	341	23
+Bacteria;Chloroflexota;unclassified_Chloroflexota	659	304
+Bacteria;Cyanobacteriota;Cyanobacteriia	16	0
+Bacteria;Cyanobacteriota;Sericytochromatia	10	23
+Bacteria;Cyanobacteriota;Vampirivibrionia	400	80
+Bacteria;Deinococcota;Deinococci	9	0
+Bacteria;Dependentiae;Babeliae	259	26
+Bacteria;Elusimicrobiota;Elusimicrobia	190	4
+Bacteria;Elusimicrobiota;Lineage IIa	328	33
+Bacteria;Elusimicrobiota;Lineage IIb	11	0
+Bacteria;Elusimicrobiota;Lineage IIc	13	0
+Bacteria;Elusimicrobiota;unclassified_Elusimicrobiota	29	0
+Bacteria;FCPU426;unclassified_FCPU426	128	30
+Bacteria;Fibrobacterota;Chitinivibrionia	103	0
+Bacteria;GAL15;unclassified_GAL15	3138	1528
+Bacteria;Gemmatimonadota;Gemmatimonadia	1869	204
+Bacteria;Gemmatimonadota;Longimicrobiia	5	0
+Bacteria;Gemmatimonadota;S0134 terrestrial group	50	0
+Bacteria;Ignavibacteriota;Ignavibacteria	92	0
+Bacteria;MBNT15;unclassified_MBNT15	3	0
+Bacteria;Methylomirabilota;Methylomirabilia	520	102
+Bacteria;Myxococcota;bacteriap25	6	0
+Bacteria;Myxococcota;Myxococcia	903	73
+Bacteria;Myxococcota;Polyangiia	1315	116
+Bacteria;Myxococcota;unclassified_Myxococcota	2	0
+Bacteria;NB1-j;unclassified_NB1-j	80	0
+Bacteria;Nitrospirota;Nitrospiria	686	456
+Bacteria;Patescibacteria;ABY1	4	0
+Bacteria;Patescibacteria;Parcubacteria	102	0
+Bacteria;Patescibacteria;Saccharimonadia	1863	7
+Bacteria;Planctomycetota;BD7-11	29	0
+Bacteria;Planctomycetota;Phycisphaerae	266	4
+Bacteria;Planctomycetota;Pla4 lineage	36	0
+Bacteria;Planctomycetota;Planctomycetes	9227	1272
+Bacteria;Planctomycetota;unclassified_Planctomycetota	5	0
+Bacteria;Planctomycetota;vadinHA49	7	0
+Bacteria;Pseudomonadota;Alphaproteobacteria	72101	17397
+Bacteria;Pseudomonadota;Gammaproteobacteria	32857	3393
+Bacteria;Pseudomonadota;unclassified_Pseudomonadota	7	0
+Bacteria;RCP2-54;unclassified_RCP2-54	402	195
+Bacteria;SAR324 clade(Marine group B);Incertae Sedis	110	12
+Bacteria;Spirochaetota;Spirochaetia	17	0
+Bacteria;Sumerlaeota;Sumerlaeia	2	0
+Bacteria;Thermodesulfobacteriota;Desulfobaccia	337	0
+Bacteria;Thermodesulfobacteriota;Desulfobacteria	10	0
+Bacteria;Thermodesulfobacteriota;Desulfuromonadia	2	24
+Bacteria;Thermodesulfobacteriota;Syntrophobacteria	162	0
+Bacteria;Thermodesulfobacteriota;Syntrophorhabdia	61	0
+Bacteria;Thermodesulfobacteriota;unclassified_Thermodesulfobacteriota	2	0
+Bacteria;unclassified_Bacteria;unclassified_Bacteria	996	1290
+Bacteria;Verrucomicrobiota;Verrucomicrobiia	1258	11
+Bacteria;Zixibacteria;unclassified_Zixibacteria	18	0

@@ -1,0 +1,7 @@
+# R session/editor artifacts
+.Rhistory
+.RData
+.Rproj.user/
+
+# Notebook checkpoint copies are not analysis inputs or deliverables.
+**/.ipynb_checkpoints/
