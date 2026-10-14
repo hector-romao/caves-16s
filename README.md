@@ -204,16 +204,4 @@ transformação logarítmica e filtros de linhagens não classificadas.
   propósito; não substitua as contagens brutas pelas rarefeitas nos gráficos
   de abundância.
 
-## Arquivos da versão anterior
 
-O repositório remoto já continha os diretórios `dada2_pipeline/`, `data/` e
-`rarefaction/` na raiz. Eles são mantidos para preservar a versão anterior; as
-análises pareadas e single-end organizadas e documentadas neste README ficam
-nas pastas `paired_reads_pipeline/` e `single_reads_pipeline/`.
-
-## Observação sobre os dados single-end
-
-As bibliotecas single-end têm poucas amostras e podem representar tanto R1
-quanto R2. A orientação é mantida na identificação e no processamento das ASVs;
-por isso, os resultados dessa análise não devem ser somados aos resultados de
-reads pareadas nem entre orientações sem uma justificativa metodológica.
